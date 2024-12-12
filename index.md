@@ -3,7 +3,7 @@
 This is my home page! My name is Jose Cardenas and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Electrical Engineer.
 ## Computer Science Projects
 
-My GitHub page is http://github.com/Sweepzy.
+My GitHub page is http://github.com/Sweepzy
 
 ### CPSC 120
 
